@@ -92,13 +92,10 @@ Run inference using the trained CNN
 Display predicted emotion in real time
 
 Repository Structure
-Code
-ImageClassifier/
-│── imageclassify.py        # Training and evaluation script
-│── live_emotion.py         # Real-time emotion detection
-│── emotion_model_gray48.h5 # Trained CNN model
-│── Human_Emotion_Recognition_CNN.docx # Project documentation
-│── README.md               # Project description
+
+<img width="779" height="390" alt="image" src="https://github.com/user-attachments/assets/74982461-ace7-44bb-b642-b9e61250cef4" />
+
+
 Technologies Used
 Python 3.10
 
